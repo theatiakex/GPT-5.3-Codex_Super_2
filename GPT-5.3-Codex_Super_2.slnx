@@ -1,3 +1,6 @@
 <Solution>
+  <Folder Name="/SubtitleQc.Tests/">
+    <Project Path="SubtitleQc.Tests/SubtitleQc/SubtitleQc.csproj" />
+  </Folder>
   <Project Path="SubtitleQc.Tests/SubtitleQc.Tests.csproj" />
 </Solution>
